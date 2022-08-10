@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am a beginner programmer who is learning HTML, CSS and JavaScript to become proficient in these technologies and then start learn React/Node.
+I'm a beginner programmer who is learning HTML, CSS and JavaScript to become proficient in these technologies and then start solving real world problems with them.
 
 
 Technologies that I have experience:
