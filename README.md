@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there, I'm Italo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 I'm a beginner programmer who is learning HTML, CSS and JavaScript to become proficient in these technologies and then start solving real world problems with them.
 
